@@ -6,4 +6,7 @@ Then clone test,and commit test
 First branch test commit
 #
 branch modify and commit
+#
+branch modify second
+
 
