@@ -8,5 +8,8 @@ First branch test commit
 branch modify and commit
 #
 branch modify second
+#
+branch sub command push --set-upstream-to study
+2022/1/7
 
 
