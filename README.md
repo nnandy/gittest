@@ -10,4 +10,6 @@ then modify main branch again
 2021/1/7 main modify
 #
 2021/1/7 11:10 vim test
+#
+2021/1/7 command diff --cached test
 
